@@ -1,16 +1,11 @@
 # news_app
 
-A new Flutter project.
+You can use NewsApp to see the latest news added on https://addnews.web.app
 
-## Getting Started
+![Quick look at the app](https://github.com/Fiiranek/NewsApp/blob/master/look.png?raw=true)
 
-This project is a starting point for a Flutter application.
+Technologies:
+- Flutter
+- Firebase (Cloud Firestore)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Example of news](https://github.com/Fiiranek/NewsApp/blob/master/news.png?raw=true)

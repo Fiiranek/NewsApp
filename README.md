@@ -6,6 +6,9 @@ Technologies:
 - Flutter
 - React
 - Firebase (Cloud Firestore)
+- Bootstrap
+
+React App is used as a CMS to add and delete news.
 
 <img src="https://github.com/Fiiranek/NewsApp/blob/master/look.png" width="400"/>
 
